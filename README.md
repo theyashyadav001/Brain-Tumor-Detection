@@ -60,7 +60,7 @@ jupyter notebook BrainTumorDetection.ipynb
 Let me know once you add this or if you want me to prepare the full README file in one piece so you can download and upload it!
 [![Brain Tumor Detection Demo 1](demo_screenshot.png)](demo_screenshot.png)
 
-[![Brain Tumor Detection Demo 2](demo_screenshot2.png)](demo_screenshot2.png)
+[![Brain Tumor Detection Demo 2](demo_screenshot1.png)](demo_screenshot1.png)
 
 
 
